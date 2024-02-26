@@ -1,0 +1,63 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#cuadrogeneral{
+	  width: 1200px;
+	  height: 1000px;
+	  background: #111010;
+	  margin: 0.5em auto;
+	  padding: 0.5em;
+}
+#cuad1{
+	  height: 5%;
+	  background: #FBFBFB;
+}
+ul{
+		list-style: none;
+		width: 50%;
+}
+li{
+		float: left;
+		position: relative;
+		width: auto;
+}
+a{  
+		color: black;
+		font-style: unset;
+		font-size: 15px;
+		font-wetght: bod;
+		padding: 15px 55px;
+		display: block;
+}
+
+#cuad2{
+	  height: 10%;
+	  background: #FBFBFB;
+	  text-align: center;
+	  font-size: 30px;
+}
+
+#cuad3{
+	  height: 70%;
+	  background:#302A2A;
+	  text-align: center;
+}
+ul{
+		list-style: none;
+		width: 80%;
+}
+li{
+		float: left;
+		position: relative;
+		width: auto;
+}
+b{  
+		color: white;
+		font-style: normal;
+		font-size: 15px;
+		font-wetght: bod;
+		padding: 15px 55px;
+		display: block;
+		
+}
